@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HackNY_Face</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clarifai_recognition">Clarifai_recognition</string>
+    <string name="title_activity_recognition">Recognitio</string>
+    <string name="title_activity_mqttservice">MQTTService</string>
+    <string name="title_activity_mqt_trial">MQT_trial</string>
+    <string name="title_activity_connect_bluetooth">Connect_bluetooth</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>
